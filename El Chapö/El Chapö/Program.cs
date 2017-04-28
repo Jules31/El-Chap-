@@ -66,7 +66,7 @@ namespace El_Chapö
                     Console.WriteLine("1. Oui");
                     Console.WriteLine("2. Non");
                     Console.ReadLine();
-                    0                }
+                }
             }
         }
     }
